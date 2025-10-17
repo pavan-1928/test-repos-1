@@ -1,6 +1,9 @@
 class hello 
-(
-     public static void main (hello file)
+{
+      public static void 
+      {  
+         system .out.println ("pavan")
+      }
 
-     )   
+    }
 
