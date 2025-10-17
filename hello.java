@@ -2,7 +2,7 @@ class hello #2
 {
       public static void #2
       {  
-         system .out.println ("pavan pavi")
+         system .out.println ("pavan pavi") #1
       }
 
 } #2
