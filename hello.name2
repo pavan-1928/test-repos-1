@@ -1,6 +1,6 @@
 class hello #3
  (
      {       #3
-        system .out 
+        system .out.print  
 	   }
-	)   #4
+	)   #5
