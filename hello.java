@@ -1,8 +1,8 @@
-class hello 
+class hello #1
 {
-      public static void 
+      public static void #1
       {  
-         system .out.println ("pavan pavi")
+         system .out.println ("pavan pavi") #1
       }
 
 }
