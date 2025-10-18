@@ -1,6 +1,6 @@
 class hello #1  
   { 
-    public static void main () #3
+    public static void main ( modify) #3
     { 
       system .out.print ()#5
       }

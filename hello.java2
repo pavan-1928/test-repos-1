@@ -1,6 +1,6 @@
  class hello #1  
  {
-   system modify{}#3
+   system modify{ java}#3
    { 
     print something 
     }#6
