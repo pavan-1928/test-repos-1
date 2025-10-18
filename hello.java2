@@ -1,9 +1,9 @@
- class hello 
+ class hello #1  
  {
-   system modify{}
+   system modify{}#3
    { 
     print something 
-    }
+    }#6
     }
     
      

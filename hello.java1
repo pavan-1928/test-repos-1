@@ -1,8 +1,8 @@
-class hello 
+class hello #1  
   { 
-    public static void main ()
+    public static void main () #3
     { 
-      system .out.print ()
+      system .out.print ()#5
       }
      }
 
