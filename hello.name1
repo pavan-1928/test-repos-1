@@ -1,0 +1,9 @@
+ class hello #3  
+ ( 
+         system .print # 3
+	    ( 
+	        pavan pavan #4
+		      )  
+)                       
+
+
